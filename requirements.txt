@@ -5,3 +5,4 @@ svglib==1.0.1
 reportlab==3.5.59
 pyinstaller
 pysimplegui
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
